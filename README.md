@@ -1,3 +1,7 @@
 # survey-form
  Survey Form
-<img src="https://raw.githubusercontent.com/CodrinGavan/survey-form/master/survey-form.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/survey-form/">Live Preview</a>
+ </li>
+ </ul>
